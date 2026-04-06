@@ -19,8 +19,11 @@
 \## Status
 
 
-
 Learning git hub step by step 
+
+Learning git step by step
+
+Diving into the HTML , CSS , JS
 
 
 
