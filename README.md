@@ -10,17 +10,13 @@
 
 
 
-\## Goal
+\## Goal 
 
 * To build a professional looking portfolio.
 
 
 
-\## Status
-
-
-
-Learning git hub step by step 
+\## Status 
 
 
 
